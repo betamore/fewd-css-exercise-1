@@ -5,8 +5,17 @@ color:red;
 font-size: 3em;
 }
 
+
 /*make first item green*/
 
 #first-milestone {
   color: green;
+}
+
+
+/* make all dates/years to bold and italics */
+
+.year {
+font-style:italic;
+font-weight: bold;
 }
