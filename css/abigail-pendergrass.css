@@ -4,3 +4,9 @@ h1 {
 color:red;
 font-size: 3em;
 }
+
+/*make first item green*/
+
+#first-milestone {
+  color: green;
+}
