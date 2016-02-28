@@ -19,3 +19,9 @@ font-size: 3em;
 font-style:italic;
 font-weight: bold;
 }
+
+/* use a child selector to make a specific item pink */
+
+.special-list-item li > span {
+  color: pink;
+}
