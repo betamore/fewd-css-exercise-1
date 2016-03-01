@@ -15,6 +15,6 @@ h1 {
 ul > ul > ul > li span {
   color: hotpink;
 }
-ul blockquote {
+li blockquote {
   background-color: silver;
 }
