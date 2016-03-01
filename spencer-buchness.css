@@ -18,3 +18,7 @@ li > a {
 blockquote {
   background-color: gray
 }
+
+body {
+    font: 15px arial, sans-serif;
+}
