@@ -5,3 +5,8 @@ h1 {
 #happy-cake {
   color: green;
 }
+
+.gnarly {
+  font-weight: bold;
+  font-style: italic;
+}
