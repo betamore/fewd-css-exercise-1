@@ -12,7 +12,7 @@ h1 {
   font-weight: bold;
   font-style: italic;
 }
-ul > ul > ul > li span {
+.special-line > li {
   color: hotpink;
 }
 li blockquote {
