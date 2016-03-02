@@ -1,8 +1,16 @@
+/* set the entire document in a sans-serif font and sensible line-height */
+
+body {
+  font-family: sans-serif;
+  line-height: sensible;
+}
+
+
 /*make headline red*/
 
 h1 {
-color:red;
-font-size: 3em;
+  color:red;
+  font-size: 3em;
 }
 
 
