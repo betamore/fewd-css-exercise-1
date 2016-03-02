@@ -22,11 +22,11 @@ font-size: 3em;
 
 /* use a child selector to make a specific item pink */
 
-.special-list-item li > span {
+.special-list-item > li {
   color: pink;
 }
 
-/* make all blockquotes have a grey background*/
+/* use descendant make all blockquotes have a grey background*/
 
 ul blockquote {
   background-color: grey;
