@@ -12,6 +12,6 @@ h1 {
   font-style: italic;
 }
 
-ul > #highlight {
+#highlight > li {
   color: pink;
 }
