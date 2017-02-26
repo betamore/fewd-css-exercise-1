@@ -30,8 +30,6 @@ article blockquote {
   font-style: italic;
 }
 
-/* really not sure on this child descendents!!! cant figure it out
-li > li {
+ ul > ul > ul > ul > li {
   color: pink
 }
-   */
