@@ -1,0 +1,16 @@
+header h1 {
+  color: red
+}
+#item-1 {
+  color: green
+}
+.dates{
+  font-style: italic;
+  font-weight: bold;
+}
+li > a {
+  color: deeppink
+}
+#block-quote span {
+  color: lightgray
+}
