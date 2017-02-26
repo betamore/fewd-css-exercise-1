@@ -5,3 +5,8 @@ header h1 {
 #green-accent {
   color: green;
 }
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+}
