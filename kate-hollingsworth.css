@@ -13,7 +13,7 @@ h1 { /* tag selector to make headline red*/
 }
 li > u { /* child selector for turning specific text pink */
   color: pink;
-  text-decoration: none;
+  text-decoration: none; /*remove underlining*/
 }
 
 body blockquote { /* decendant selector for turning blockquote grey */
@@ -27,5 +27,13 @@ body { /* set fonts and line heights for the whole thing */
 /*--------- Experimental Styling ----------- */
 
 .padwrapper {
-  padding: 10%;
+  margin: 3% 10% 3% 10%; /* margin top, right, bottom, left */
+}
+li {
+  padding-bottom: 1em;
+}
+
+body {
+  border: 3px solid purple;
+  padding: 3px;
 }
