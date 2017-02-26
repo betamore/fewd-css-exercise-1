@@ -1,5 +1,7 @@
-
-
-#h1 {
+header h1 {
   color: red;
+}
+
+#green-accent {
+  color: green;
 }
