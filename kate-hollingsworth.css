@@ -1,4 +1,3 @@
-
 /* -----class assignment styling -------*/
 h1 { /* tag selector to make headline red*/
   color: red;
@@ -16,10 +15,16 @@ li > u { /* child selector for turning specific text pink */
   color: pink;
 }
 
-li blockquote { /* decendant selector for turning blockquote grey */
+body blockquote { /* decendant selector for turning blockquote grey */
   background-color: grey;
 }
-body {
+body { /* set fonts and line heights for the whole thing */
   font-family: sans-serif;
   line-height: normal;
+}
+
+/*--------- Experimental Styling ----------- */
+
+.padwrapper {
+  padding: 10%;
 }
