@@ -1,5 +1,9 @@
 header h1 {
   color: red
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
 }
 #item-1 {
   color: green
