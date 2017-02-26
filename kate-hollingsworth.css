@@ -1,0 +1,25 @@
+
+/* -----class assignment styling -------*/
+h1 { /* tag selector to make headline red*/
+  color: red;
+}
+
+#firstitem { /*id selector for the first list item */
+  color: green;
+}
+
+.dates { /*class selector to make dates and years bold & italic */
+  font-weight: bold;
+  font-style: italic;
+}
+li > u { /* child selector for turning specific text pink */
+  color: pink;
+}
+
+li blockquote { /* decendant selector for turning blockquote grey */
+  background-color: grey;
+}
+body {
+  font-family: sans-serif;
+  line-height: normal;
+}
