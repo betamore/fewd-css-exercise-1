@@ -1,12 +1,33 @@
+
+body {
+  font: sans-serif;
+  line-height: normal;
+}
+
 header h1 {
   color: red;
+}
+
+blockquote {
+  background-color: gray;
 }
 
 #green-accent {
   color: green;
 }
 
+#date-accent {
+  font-weight: bold;
+  font-style: italic;
+}
+
 .date {
   font-weight: bold;
   font-style: italic;
 }
+
+/* really not sure on this child descendents!!! cant figure it out
+li > li {
+  color: pink
+}
+   */
