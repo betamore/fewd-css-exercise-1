@@ -18,6 +18,7 @@ li > u { /* child selector for turning specific text pink */
 
 body blockquote { /* decendant selector for turning blockquote grey */
   background-color: grey;
+  padding: 3px;
 }
 body { /* set fonts and line heights for the whole thing */
   font-family: sans-serif;
