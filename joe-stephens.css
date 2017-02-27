@@ -11,3 +11,12 @@ h1 {
 #green {
   color: green;    /* color red */
 }
+li > span {
+  color: pink;    /* child selector */
+}
+p blockquote {
+  background-color: gray;
+}
+div blockquote {
+  background-color: gray;
+}
