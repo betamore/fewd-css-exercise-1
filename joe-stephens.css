@@ -1,3 +1,13 @@
 h1 {
   color: red;    /* color red */
 }
+
+
+.date {
+  font-style: italic;
+  font-weight: bold;
+}
+
+#green {
+  color: green;    /* color red */
+}
