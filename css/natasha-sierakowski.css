@@ -20,11 +20,6 @@ article blockquote {
   color: green;
 }
 
-#date-accent {
-  font-weight: bold;
-  font-style: italic;
-}
-
 .date {
   font-weight: bold;
   font-style: italic;
