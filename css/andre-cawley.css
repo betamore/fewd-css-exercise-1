@@ -20,6 +20,6 @@ li > a {
   color: deeppink
 }
 
-#block-quote span {
-  color: lightgray
+div blockquote {
+  background-color: gray
 }
