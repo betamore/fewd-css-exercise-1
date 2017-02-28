@@ -11,9 +11,8 @@ h1 { /* tag selector to make headline red*/
   font-weight: bold;
   font-style: italic;
 }
-li > u { /* child selector for turning specific text pink */
+li > div { /* child selector for turning specific text pink */
   color: pink;
-  text-decoration: none; /*remove underlining*/
 }
 
 body blockquote { /* decendant selector for turning blockquote grey */
