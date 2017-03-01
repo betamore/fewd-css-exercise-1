@@ -16,7 +16,11 @@ article blockquote {
   background-color: gray;
 }
 
-#green-accent {
+#pinkfont > li {
+  color: pink;
+}
+
+#accent {
   color: green;
 }
 
@@ -24,7 +28,7 @@ article blockquote {
   font-weight: bold;
   font-style: italic;
 }
-
+/* old child
  ul > ul > ul > ul > li {
   color: pink
-}
+}*/
