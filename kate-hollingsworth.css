@@ -34,6 +34,6 @@ li {
 }
 
 body {
-  border: 3px solid purple;
+  border: 3px dotted purple;
   padding: 3px;
 }
