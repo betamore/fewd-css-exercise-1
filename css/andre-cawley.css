@@ -11,15 +11,15 @@ body {
   color: green
 }
 
-.dates{
+.dates {
   font-style: italic;
   font-weight: bold;
 }
 
-li > a {
+ #pinkfont > li {
   color: deeppink
 }
 
-div blockquote {
+body blockquote {
   background-color: gray
 }
