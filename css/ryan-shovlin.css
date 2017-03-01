@@ -1,3 +1,11 @@
+/*  ================ Helpers ================ */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   font-family: Verdana, sans-serif;
   line-height: 1.5em;
@@ -30,3 +38,11 @@ body blockquote {
   background-color: gray
 }
 /*descendant selector to make the blockquote background grey*/
+
+div {
+  border: 6px solid #949599;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 400px;
+}
