@@ -10,3 +10,16 @@ h1 {
   font-weight: bold;
   font-style: italic;
 }
+
+section > li {
+  color: pink;
+}
+
+body blockquote {
+  background-color: gray;
+}
+
+body {
+  font: helvetica;
+  line-height: 20px;
+}
