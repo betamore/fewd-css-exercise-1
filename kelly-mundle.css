@@ -20,6 +20,6 @@ body blockquote {
 }
 
 body {
-  font: helvetica;
+  font-family: helvetica, sans-serif;
   line-height: 20px;
 }
