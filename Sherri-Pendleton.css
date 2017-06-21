@@ -1,9 +1,10 @@
+@@charset "UTF-8";
 body{
   font-family: sans-serif;
   line-height: 2em;
 }
 h1{
-  color: red;
+  color: 0;
 }
 #history {
   color: green
@@ -16,4 +17,16 @@ li > a {
   color: pink;
   text-decoration: none;
 }
+.banner {
+  background-color: grey;
+  color :white;
+  padding: 10px 20px;
+}
+
+Body{
+  width: 960px
+  margin-left: auto;
+  margin-right: auto;
+}
+
 }
