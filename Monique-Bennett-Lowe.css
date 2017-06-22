@@ -1,7 +1,21 @@
+body {
+	font-family: sans-serif;
+	line-height: 90%;
+}
+
 h1 {
 	color: red;
 }
 
 #myList {
 	color: green;
+}
+
+.dates {
+	font-weight: bold;
+	font-style: italic;
+}
+
+blockquote {
+	background-color: gray;
 }
