@@ -1,0 +1,10 @@
+h1 {
+color: red;
+}
+#first-list-item {
+  color: green;
+}
+.dates {
+  font-weight: bold;
+  font-style: italic;
+}
