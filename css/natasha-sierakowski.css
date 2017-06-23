@@ -1,0 +1,35 @@
+/* FONT */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed);
+
+/* BODY START */
+
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 3em;
+}
+
+header h1 {
+  color: red;
+}
+
+article blockquote {
+  background-color: gray;
+}
+
+#pinkfont > li {
+  color: pink;
+}
+
+#accent {
+  color: green;
+}
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* old child
+ ul > ul > ul > ul > li {
+  color: pink
+}*/
