@@ -19,3 +19,7 @@ h1 {
 blockquote {
 	background-color: gray;
 }
+
+ul > #font-info {
+	color: pink;
+}
