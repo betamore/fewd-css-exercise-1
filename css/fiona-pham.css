@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+  line-height: sensible;
+}
 h1 {
 color: red;
 }
@@ -7,4 +11,10 @@ color: red;
 .dates {
   font-weight: bold;
   font-style: italic;
+}
+ul > .font-info {
+  color: pink;
+}
+li blockquote {
+  background-color: grey;
 }
