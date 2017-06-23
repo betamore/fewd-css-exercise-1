@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+/* line-height and font family */
+* {
+  line-height: 1.1;
+  font-family: 'Roboto Condensed', Arial, sans-serif;
+}
+
+h1 {
+  color: red;
+}
+
+#first-list-item {
+  color: green;
+}
+
+.date {
+  font-style: italic;
+  font-weight: bold;
+}
+
+span>li {
+  color: pink;
+}
+
+ul blockquote {
+  background-color: lightgrey;
+}
