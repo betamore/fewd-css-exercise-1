@@ -1,0 +1,37 @@
+
+
+
+body {
+  font-family: sans-serif;
+  line-height: normal;
+}
+h1 {
+  color: red;
+     /* color red */
+}
+
+.date {
+  font-style: italic;
+  font-weight: bold;
+}
+
+#green {
+  color: green;    /* color green */
+}
+li > span {
+  color: pink;    /* child selector */
+}
+
+blockquote {
+  background-color: gray;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.blocktest {
+  width: 600px;
+  border: 2px solid #5D6063;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px auto;
+}
