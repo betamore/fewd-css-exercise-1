@@ -11,11 +11,11 @@ h1 {
   font-style: italic;
 }
 
-section > li {
+ul > #font-color {
   color: pink;
 }
 
-body blockquote {
+li blockquote {
   background-color: gray;
 }
 
