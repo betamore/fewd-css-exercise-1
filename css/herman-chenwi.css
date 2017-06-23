@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+}
+
+
+#flowergirl {
+  color: green;
+}
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+}
+
+#highlight > li {
+  color: pink;
+}
+
+li blockquote {
+  background-color: grey;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
