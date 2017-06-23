@@ -1,0 +1,25 @@
+header h1 {
+  color: red
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5em;
+}
+
+#item-1 {
+  color: green
+}
+
+.dates {
+  font-style: italic;
+  font-weight: bold;
+}
+
+ #pinkfont > li {
+  color: deeppink
+}
+
+body blockquote {
+  background-color: gray
+}
