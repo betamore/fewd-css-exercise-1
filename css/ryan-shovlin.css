@@ -1,0 +1,73 @@
+/*  ================ Helpers ================ */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  line-height: 1.5em;
+}
+/*added font & line height*/
+/*to import a font from google: @import url(web address);*/
+
+h1 {
+    color: red;
+}
+/*tag selector to make headine red*/
+
+#green-text {
+    color: green;
+}
+/*id selector to make first line item green*/
+
+.date {
+    font-style: italic;
+    font-weight: bold;
+}
+/*class selector to set all dates/years to bold and italic*/
+
+li > object {
+    color: deeppink
+}
+/*child selector to make a specific line of text pink*/
+
+blockquote {
+  background-color: gray;
+  padding: 10px;
+  border: 8px solid lightgreen;
+  max-width: 600px;
+  margin: 10px auto 20px auto;
+  box-sizing: border-box;
+}
+/*descendant selector to make the blockquote background grey*/
+
+.relative1 {
+  position: relative;
+  background-color: darkorange
+}
+
+.relative2 {
+  position: relative;
+  top: -20px;
+  left: 20px;
+  background-color: white;
+  width: 500px;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: white;
+
+p {
+  width: 230px;
+  float: left;
+  margin: 5px;
+  padding: 5px;
+  background-color: #efefef;
+  }
