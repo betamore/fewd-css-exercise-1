@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+}
+
+#happy-cake {
+  color: green;
+}
+
+.gnarly {
+  font-weight: bold;
+  font-style: italic;
+}
+
+li > a {
+  color: pink;
+}
+
+blockquote {
+  background-color: gray
+}
+
+body {
+    font: 15px arial, sans-serif;
+}
