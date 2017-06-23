@@ -1,0 +1,39 @@
+/* -----class assignment styling -------*/
+h1 { /* tag selector to make headline red*/
+  color: red;
+}
+
+#firstitem { /*id selector for the first list item */
+  color: green;
+}
+
+.dates { /*class selector to make dates and years bold & italic */
+  font-weight: bold;
+  font-style: italic;
+}
+li > div { /* child selector for turning specific text pink */
+  color: pink;
+}
+
+body blockquote { /* decendant selector for turning blockquote grey */
+  background-color: grey;
+  padding: 3px;
+}
+body { /* set fonts and line heights for the whole thing */
+  font-family: sans-serif;
+  line-height: normal;
+}
+
+/*--------- Experimental Styling ----------- */
+
+.padwrapper {
+  margin: 3% 10% 3% 10%; /* margin top, right, bottom, left */
+}
+li {
+  padding-bottom: 1em;
+}
+
+body {
+  border: 3px dotted purple;
+  padding: 3px;
+}
