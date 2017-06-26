@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+#lucky-charm {
+  color: green;
+}
+
+.dates {
+  font-weight: bold;
+  font-style: italic;
+}
+
+ul > #font-info {
+  color: pink;
+}
+
+ul blockquote {
+  background-color: gray;
+}
