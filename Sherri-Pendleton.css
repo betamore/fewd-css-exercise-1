@@ -4,29 +4,43 @@ body{
   line-height: 2em;
 }
 h1{
-  color: 0;
+  color: red;
+  border: 1px solid black;
+  border-bottom-color:grean;
+  margin: 20px;
+
 }
-#history {
-  color: green
+
+#first-list-item{
+  color:green;
+}
+li blockquote{
+  background-color: gray;
+  font:white
+}
+ul > #font-info
+{
+  pink;
 }
 .dates {
   font-style: italic;
   font-weight: bold;
 }
-li > a {
+ul> #font-info {
   color: pink;
   text-decoration: none;
-}
-.banner {
-  background-color: grey;
-  color :white;
-  padding: 10px 20px;
 }
 
 Body{
   width: 960px
   margin-left: auto;
   margin-right: auto;
+}
+#BG{
+  background-color: gray;
+  color:white
+}
+
 }
 
 }
