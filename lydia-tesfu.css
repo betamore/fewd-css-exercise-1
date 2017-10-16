@@ -2,20 +2,23 @@ h1{
   color: red
 }
 
-#history{
+#history {
   color: green
 }
-.dates{
+.dates {
   font-weight: bold;
   font-style: italic;
 }
-.parent-class > li{
+
+.parent-class > li {
   color: #FFA07A;
 }
-body blockquote{
+
+body blockquote {
   background-color: #B0C4DE
 }
+
 body{
   font-family: sans-serif;
-  line-height: 1.5
+  line-height: 15px
 }
