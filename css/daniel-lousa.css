@@ -40,7 +40,7 @@ ul > li{
   color: magenta;
 }
 
-body blockquote {
+li blockquote {
   background-color:lightslategray;
   color: whitesmoke;
 }
