@@ -10,8 +10,8 @@ h1{
   font-style: italic;
 }
 
-.parent-class > li {
-  color: #pink;
+li > div {
+  color: pink;
 }
 
 body blockquote {
@@ -20,5 +20,5 @@ body blockquote {
 
 body{
   font-family: sans-serif;
-  line-height: 20px
+  line-height: 20px;
 }
