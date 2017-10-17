@@ -1,0 +1,50 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  line-height: 25px;
+  background-color: rgb(253, 253, 253);
+  color:rgb(94, 92, 92);
+}
+
+h1 {
+  color: darkred;
+  font-family: 'Roboto', sans-serif;
+}
+
+#first {
+  color: green;
+}
+
+.dates {
+  font-weight: bold;
+  font-style: italic;
+}
+
+ul {
+  margin-left: 25px;
+}
+
+.bullet {
+  margin-left: 25px;
+}
+
+li {
+  list-style-type: square;
+}
+.bullet > li {
+  list-style-type: circle;
+}
+ul > li{
+  list-style-type: disc;
+}
+li > div {
+  color: magenta;
+}
+
+body blockquote {
+  background-color:lightslategray;
+  color: whitesmoke;
+}
+
+body > li {
+  padding: 3px;
+}
