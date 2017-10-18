@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+  font-family: 'Roboto', arial, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+
+h1 {
+  color: red;
+}
+
+#first {
+  color: green;
+}
+
+.dates {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.highlight {
+  color: pink;
+}
+
+li blockquote {
+  background: grey;
+}
