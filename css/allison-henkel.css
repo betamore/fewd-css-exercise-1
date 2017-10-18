@@ -1,0 +1,32 @@
+* {
+font-family: helvetica, sans-serif;
+line-height: normal;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+  color: red;
+}
+
+#initialevent {
+  color: green;
+}
+
+.dates {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 25px;
+}
+strong {
+  font-weight: bold;
+}
+
+li>a {
+  color: #ff69b4;
+  text-decoration: none;
+}
+
+ul blockquote {
+  background-color: #C0C0C0;
+}
