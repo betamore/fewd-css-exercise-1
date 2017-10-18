@@ -1,0 +1,29 @@
+
+
+body {
+  font-family: 'Roboto', arial, sans-serif;
+  line-height: 1.3em;
+}
+
+h1 {
+  color: red;
+}
+
+#first-list-item {
+  color: green;
+}
+
+.date {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.pink > li {
+    color: pink;
+}
+
+li blockquote {
+  background-color: gray;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
