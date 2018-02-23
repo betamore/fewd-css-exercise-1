@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+#first {
+  color:green;
+}
+
+.dates {
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+ul > #fontcolor {
+  color: pink;
+
+}
+
+body blockquote {
+  background-color: gray
+}
