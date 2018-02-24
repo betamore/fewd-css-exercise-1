@@ -14,3 +14,7 @@ h1 {
 #fontInfo > li {
   color: pink;
 }
+
+body blockquote {
+  background-color: gray;
+}
