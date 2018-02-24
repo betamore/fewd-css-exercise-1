@@ -5,3 +5,8 @@ h1 {
 #firstListItem {
   color: green;
 }
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+}
