@@ -18,3 +18,7 @@ h1 {
 body blockquote {
   background-color: gray;
 }
+
+body {
+  font-family: sans-serif;
+}
