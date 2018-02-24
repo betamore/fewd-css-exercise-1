@@ -10,3 +10,7 @@ h1 {
   font-weight: bold;
   font-style: italic;
 }
+
+#fontInfo > li {
+  color: pink;
+}
