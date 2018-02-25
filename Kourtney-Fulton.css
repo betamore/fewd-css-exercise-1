@@ -1,0 +1,16 @@
+h1{
+  color: red;
+}
+#intro{
+  color: green;
+}
+.date {
+    font-weight: bold;
+    font-style: italic;
+}
+li > span {
+  color: pink;
+}
+body blockquote{
+  background-color: gray;
+}
