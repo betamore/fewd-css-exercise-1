@@ -5,3 +5,8 @@ h1 {
 #green {
     color: green;
 }
+
+.time {
+    font-style: italic;
+    font-weight: bold;
+}
