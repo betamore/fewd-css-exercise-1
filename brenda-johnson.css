@@ -14,3 +14,7 @@ h1 {
 li > a {
     color: pink;
 }
+
+ul blockquote {
+    background-color: gray;
+}
