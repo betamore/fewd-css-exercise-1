@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+}
+
+#firstListItem {
+  color: green;
+}
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+  display: inline-block;
+}
+
+#fontInfo > li {
+  color: pink;
+}
+
+body blockquote {
+  background-color: gray;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 2.5
+}
