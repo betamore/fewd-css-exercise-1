@@ -1,0 +1,43 @@
+* {
+ font-size: 100%;
+ font-family: sans-serif;
+line-height: 1.8em;
+background-color: #eeeeee;
+margin-left: 20px;
+margin-left: 0px;
+    
+}
+h1 {
+  color: red;
+    text-align: center;
+    font-size: 48px;
+}
+
+#list-item-1 {
+  color:limegreen;
+}
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+}
+
+ul > #font-color {
+  color: hotpink;
+}
+
+li blockquote {
+  background-color: gray;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: white;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16)
+    
+}
+
+body {
+  font-family: helvetica, sans-serif;
+  line-height: 20px;
+}
