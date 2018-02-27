@@ -8,7 +8,7 @@ h1 {
   font-weight: bold;
   font-style: italic;
 }
-li {
+li > div {
   color: pink;
 }
 body blockquote {
