@@ -8,8 +8,13 @@ h1 {
   font-weight: bold;
   font-style: italic;
 }
-li > #div {
+li {
   color: pink;
 }
 body blockquote {
   background-color: gray
+}
+body {
+    font-family: arial, sans-serif;
+    line-height: 20px;
+  }
