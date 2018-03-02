@@ -1,6 +1,4 @@
 * {
- font-size: 100%;
- font-family: sans-serif;
 line-height: 1.8em;
 background-color: darkblue;
 
@@ -19,28 +17,39 @@ background-color: white;
     background-image: url(images/css-3.svg);
     background-size: 50%;
     background-blend-mode:overlay;
-    
+    font-family: sans-serif;
 }
 
 #list-item-1 {
-  color:limegreen;
+    color:darkblue;
+    font-family: sans-serif;
+    font-size:21px; 
 }
 
 .date {
-  font-weight: bold;
-  font-style: italic;
-background-color: #eeeeee;
+    font-weight: bold;
+    font-style:normal;
+    font-size: 24px;
+    background-color: #eeeeee;
+    font-family: sans-serif;
+    
 }
 
 ul, menu, dir {
     display: block;
     background-color: #eeeeee;
-    
+      list-style-type: none;
+
 }
 
 ul > #font-color {
-  color: hotpink;
- background-color: #eeeeee;
+    color: white;
+    background-color: dodgerblue;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    margin: 5px 5px 5px 5px;
+        width: 690px;
+
 }
 
 li {
@@ -53,6 +62,7 @@ li blockquote {
     padding-top: 20px;
     padding-left: 100px;
     padding-right: 100px;
+    border-radius: 15px;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16);
     background-color: #C0C0C0;
     font-family:sans-serif;
@@ -72,13 +82,18 @@ body {
     font-family: helvetica, sans-serif;
     line-height: 20px;
     font-size: 18px;
+    position: relative;
+    min-height: 100%;
+  min-height: 100vh;
+    
     
 }
+
 div {
     margin-right: 50px;
     margin-left: 50px;
     margin-top: -50px;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     padding-top: 40px;
     padding-right: 20px;
     padding-left: 20px;
@@ -88,11 +103,48 @@ div {
     background-color: #eeeeee;
 }
 
-img{
+img {
     height: 90px;
     width: auto;
     background-color: white;
     vertical-align: middle;
     padding: 7px;
     
+}
+footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1px;
+  background-color: white;
+    color: darkblue;
+    text-align: right;
+    border-radius: 0px;
+    position:fixed;
+    box-shadow: 0 2px 15px 0 rgba(0,0,0,0.16)
+
+}
+
+#footerimagematticon {
+    height: 75px;
+    width: auto
+}
+
+
+
+.onclick-menu {
+    position: relative;
+    display: inline-block;
+}
+.onclick-menu:before {
+    content: "click me!";
+}
+.onclick-menu:focus .onclick-menu-content {
+    display: block;
+}
+.onclick-menu-content {
+    position: absolute;
+    z-index: 1;
+
+    display: none;
 }
