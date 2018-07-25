@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+.time {
+    font-style: italic;
+    font-weight: bold;
+}
+
+li > a {
+    color: pink;
+}
+
+ul blockquote {
+    background-color: goldenrod;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 20px;
+}
