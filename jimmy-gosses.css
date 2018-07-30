@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+#timeline {
+    color: green;
+}
+
+.date {
+    font-weight: bold;
+    font-style: italic;
+}
+
+li>div {
+    color: pink;
+}
+li blockquote {
+    background-color: gray;
+}
+html {
+    font-family: sans-serif;
+    line-height:2
+}
