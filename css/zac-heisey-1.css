@@ -1,3 +1,8 @@
+body {
+  font-family: 'Orbitron', sans-serif;
+  line-height: 200%;
+}
+
 h1 {
   color: red;
 }
@@ -13,4 +18,8 @@ h1 {
 
 li > blockquote {
   text-decoration: underline;
+}
+
+body blockquote {
+  background-color: gray;
 }
