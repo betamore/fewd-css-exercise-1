@@ -1,26 +1,25 @@
 * {
-    font-family: 'Raleway', sans-serif;
-    line-height: 200%;
+  font-family: "Raleway", sans-serif;
+  line-height: 200%;
 }
 
 h1 {
-    color: #ff0000;
+  color: #ff0000;
 }
 
 #first-list {
-    color: #00ff00
+  color: #00ff00;
 }
 
 .date {
-    font-weight: bold;
-    font-style: italic;
+  font-weight: bold;
+  font-style: italic;
 }
 
-li>blockquote {
-    text-decoration: underline;
-
+li > blockquote {
+  text-decoration: underline;
 }
 
-li blockquote {
-    background: #D3D3D3;
+body blockquote {
+  background: #d3d3d3;
 }
