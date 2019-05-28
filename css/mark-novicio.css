@@ -1,0 +1,25 @@
+* {
+  font-family: "Raleway", sans-serif;
+  line-height: 200%;
+}
+
+h1 {
+  color: #ff0000;
+}
+
+#first-list {
+  color: #00ff00;
+}
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+}
+
+li > blockquote {
+  text-decoration: underline;
+}
+
+body blockquote {
+  background: #d3d3d3;
+}
