@@ -1,0 +1,24 @@
+/* CSS Box Model and Universal box-sizing Setting */
+* {
+  box-sizing: border-box;
+font-family: sans-serif;
+line-height: 1.5;
+}
+
+h1 {
+  color: red;
+}
+#firstwork {
+  color: green ;
+}
+.dates {
+  font-style: italic;
+  font-weight: bold;
+}
+li > blockquote {
+  text-decoration: underline;
+}
+
+body blockquote {
+  background-color: gray;
+}
