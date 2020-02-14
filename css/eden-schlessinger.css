@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box
+  margin: 0
+  padding: 0
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+h1{
+color: red;
+}
+
+#lin1{
+  color: green;
+}
+
+.dates{
+  font-weight: bold;
+  font-style: italic;
+}
+
+li > blockquote{
+  text-decoration: underline;
+}
+
+ body blockquote {
+   background color: gray;
+ }
